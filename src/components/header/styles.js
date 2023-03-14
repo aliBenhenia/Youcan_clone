@@ -80,7 +80,8 @@ export const Head = styled.div `
                     width: 333px;
                     z-index: 333;
                     position: absolute;
-                    height: 100vh;
+                    /* height: 100vh; */
+                    height: 100000px;
                     left: 0;
                     top: 0;
                     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
