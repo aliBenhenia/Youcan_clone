@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Head ,Btn} from './styles';
+import { Head ,Btn,GlobalStyles} from './styles';
 import { Select,Menu } from 'antd';
 import {BarsOutlined,CloseCircleTwoTone} from "@ant-design/icons"
 const logo = "https://youcan.shop/images/home_page_images_v2/logo.svg";
@@ -11,6 +11,7 @@ export default function Header() {
     }
   return (
     <Head>
+        {!open && <GlobalStyles />}
       <div className='container'>
         <div className='logo'>
             <a href='/'>

@@ -1,4 +1,10 @@
-import styled,{css} from 'styled-components'
+import styled,{css,createGlobalStyle} from 'styled-components'
+export const GlobalStyles = createGlobalStyle`
+  body {
+    overflow: hidden;
+    user-select: none;
+  }
+`;
 export const Btn = styled.button `
     padding: 11px;
     border: 0;

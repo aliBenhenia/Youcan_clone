@@ -1,6 +1,7 @@
 import Header from "./components/header/Header";
 import { GlobalStyles } from "./GlobalStyles";
 import Home from "./pages/home/Home";
+import Footer from "./components/footer/Footer";
 function App() {
   return (
     <div>
@@ -8,6 +9,7 @@ function App() {
         <div className="container mt-5">
          <Home /> 
         </div>
+        <Footer /> 
     </div>
   );
 }

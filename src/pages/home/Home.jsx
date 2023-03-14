@@ -132,12 +132,12 @@ export default function Home() {
             <Panel header="Is there a limit on the number of products I can add to my store?" key="3">
                 <p>You can add an unlimited number of products and receive an unlimited number of qualified visitors excluding fake visitors. YouCan enables you to create, develop and manage your store without limitations.</p>
             </Panel>
-            <Panel header="Does YouCan take care of storage and shipping of my products?" key="3">
+            <Panel header="Does YouCan take care of storage and shipping of my products?" key="4">
                 <p>
 arrow down
 We do not currently support storage and shipping, but we have an aggregator service (YouCan Ship) that provides you with a list of local shipping companies and you can choose from it.</p>
             </Panel>
-            <Panel header="Can I use YouCan for dropshipping" key="3">
+            <Panel header="Can I use YouCan for dropshipping" key="5">
                 <p>Yes, YouCan can be used for dropshipping. All the tools you need to do so are available to you. Please read our terms and conditions for cases where you are not allowed to use dropshipping.</p>
             </Panel>
             </Collapse>
