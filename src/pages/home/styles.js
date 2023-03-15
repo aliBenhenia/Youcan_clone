@@ -29,7 +29,7 @@ export const Btn = styled.button `
         line-height: 2;
         .bl
         {
-            max-width : 400px
+            max-width : 299px
         }
         h6
         {
@@ -76,7 +76,7 @@ export const Btn = styled.button `
 
         #gify
         {
-            max-width : 366px
+            width : 300px
         }
         p{
             color : #5F5F5F;
@@ -88,7 +88,7 @@ export const Btn = styled.button `
         border-radius : 11px;
         background : #F5F8FF;
         img{
-            width : 333px;
+            width : 299px;
             border-radius : 11px;
             margin-top :25px;
         }
@@ -97,7 +97,7 @@ export const Btn = styled.button `
     {
         line-height : 2;
         img{
-            width : 333px;
+            width : 299px;
             border-radius : 11px;
             margin-top :25px;
         }

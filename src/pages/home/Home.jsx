@@ -75,7 +75,7 @@ export default function Home() {
         </div>
         <div className = "container sec3 mt-5">
           <div className = "row">
-            <div className="col-md-7 pr-5">
+            <div className="col-md-7">
                     <img id ="gify" src = "https://youcan.shop/images/new_portal_design/home/setup-store-animation.gif"/>
                 </div>
                 <div className="col-md-5 pl-3">
@@ -89,9 +89,9 @@ export default function Home() {
                 </div>
           </div>
         </div>
-        <div className = "container sec4 mt-5 mt-5 container p-5">
+        <div className = "container sec4 mt-5 mt-5 container p-3 ">
           <div className = "row">
-                <div className="col-md-5 pl-3">
+                <div className="col-md-5 ">
                     <h3> No charge until you succeed</h3>
                     <p>
                     Enjoy all YouCan features and services without any limitations and without having to pay until you reach $10,000 in sales.
@@ -101,19 +101,19 @@ export default function Home() {
                     </Btn>
                 </div>
             <div className="col-md-7 pr-5 ">
-                    <img id ="gify" src = "https://youcan.shop/images/new_portal_design/home/navigate-illustration-3.webp"/>
-             </div>
+                    <img  src = "https://youcan.shop/images/new_portal_design/home/navigate-illustration-3.webp"/>
+             </div> 
           </div>
         </div>
-        <div className = "container sec5 mt-5 mt-5 container p-5">
+        <div className = "container sec5 mt-5 mt-5 container p-3">
           <div className = "row">
             <div className="col-md-7 pr-5 ">
-                    <img id ="gify" src = "https://youcan.shop/images/home_page_images_v2/store-setup.png"/>
+                    <img  src = "https://youcan.shop/images/home_page_images_v2/store-setup.png"/>
              </div>
                 <div className="col-md-5 pl-3 mt-3">
-                    <h3 > No charge until you succeed</h3>
+                    <h3 > All the e-commerce tools you need in one place.d</h3>
                     <p>
-                    Enjoy all YouCan features and services without any limitations and without having to pay until you reach $10,000 in sales.
+                    Get all the design, fulfillment, payment, and analytics tools you need to manage your business seamlessly
                     </p>
                     <Btn>
                         Learn more

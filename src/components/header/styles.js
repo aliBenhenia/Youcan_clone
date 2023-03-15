@@ -1,6 +1,6 @@
 import styled,{css,createGlobalStyle} from 'styled-components'
 export const GlobalStyles = createGlobalStyle`
-  body {
+  body ,html{
     overflow: hidden;
     user-select: none;
   }
@@ -113,6 +113,8 @@ export const Head = styled.div `
                         color: #333333;
                         width: 60%;
                         border-radius: 10px;
+                        text-align: center;
+                        margin-top: 16px;
                         &:hover
                         {
                             background-color: #b8327545;
